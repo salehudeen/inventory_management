@@ -24,8 +24,8 @@ class cphp_stock_db extends cDbHelper {
 	// Database connection info
 	var $Host = 'localhost';
 	var $Port = 3306;
-	var $Username = 'root';
-	var $Password = 'Elvis56';
+	var $Username = 'deen';
+	var $Password = 'deendraco123';
 	var $DbName = 'php_stock';
 
 	// ADODB (Access/SQL Server)
